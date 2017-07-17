@@ -2,6 +2,11 @@
 Changelog for package cob_monitoring
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fix changelog
+* Contributors: flg-pb
+
 0.6.8 (2017-07-17)
 ------------------
 
