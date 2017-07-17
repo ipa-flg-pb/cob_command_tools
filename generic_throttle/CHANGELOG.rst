@@ -2,8 +2,8 @@
 Changelog for package generic_throttle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.6 (2017-07-17)
+------------------
 * Add @ipa-fmw as maintainer.
 * Add install tags for the executable node
 * Move throttle_node to script folder. Fix typos in README.
