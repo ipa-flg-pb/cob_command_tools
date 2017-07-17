@@ -2,6 +2,9 @@
 Changelog for package cob_command_tools
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.6.6 (2017-07-17)
 ------------------
 * add auto_recover to new cob_helper_tools pkg
