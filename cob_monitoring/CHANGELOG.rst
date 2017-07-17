@@ -16,7 +16,7 @@ Changelog for package cob_monitoring
 * adjust to hz_monitor yaml layout
 * generic topic status monitor based on diagnostic updater
 * [hotfix] python syntax
-* remove useless code (`#173 <https://github.com/ipa-flg-pb/cob_command_tools/issues/173>`_)
+* remove useless code
 * update psutil api
 * add fake_diagnostics
 * get num_cores from psutils
